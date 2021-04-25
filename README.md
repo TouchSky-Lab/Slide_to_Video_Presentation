@@ -6,8 +6,8 @@ PPT Presenter converts a `.pptx` file to a video, and read out speaker's notes a
 
 * To get started, clone this repo
 ```
-git clone https://github.com/chaonan99/ppt_presenter.git
-cd ppt_presenter
+git clone https://github.com/TouchSky-Lab/Slide_to_Video_Presentation.git
+cd Slide_to_Video_Presentation
 ```
 * Install required packages
 ```
